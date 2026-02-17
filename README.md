@@ -27,5 +27,5 @@ After analyzing my sales data, I discovered a few things:.
 ## The Impact
 By adjusting my pricing strategy based on these insights, I am now focusing on the products that actually grow the bottom line rather than just increasing sales volume.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Screenshot](Business_Performance_Analysis.png)
